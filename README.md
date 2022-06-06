@@ -1,10 +1,6 @@
 # Competition_3v3snakes
 
-<<<<<<< HEAD
 ## Environment
-=======
-### Environments
->>>>>>> f39868242bd255d1814b244bc8066b7316ec4def
 
 <!-- ![image](https://github.com/jidiai/Competition_3v3snakes/blob/master/assets/snakesdemo.gif) -->
 <img src="https://github.com/jidiai/Competition_3v3snakes/blob/master/assets/snakesdemo.gif" alt="Competition_3v3snakes" width="500" height="250" align="middle" />
